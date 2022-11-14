@@ -1,4 +1,6 @@
+TASK TO EVALUATE AN EXPRESSION
 
+*first test in my DSA course in university
 
 Time I solved the task: 6 hours
 Time required to solve it: 1 hour
