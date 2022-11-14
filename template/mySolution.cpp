@@ -33,7 +33,7 @@ double evaluate(const char* expression)
 	while (!arguments.empty()) {
 		double left = arguments.top();
 		arguments.pop();
-		double right = arguments.top();
+		double right = arguments.top(); 
 		arguments.pop();
 		std::cout << oper.top() << " ";
 		result = perform(oper.top(), left, right);
